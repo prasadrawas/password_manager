@@ -1,6 +1,6 @@
 # password_manager
 
-A new Flutter project.
+#Flutter password manager project to store your login credentials/bank details/cards details/netbanking/mobile banking etc.
 
 ## Getting Started
 
